@@ -1,0 +1,4 @@
+esta version es una version ligera del proyecto...dado que el portal no nos permitio subir el proyecto completo.
+En esta se quito las cosas no utiles de la fase 1, los drivers de la fase 2.
+RECOMENDAMOS
+Usar la version que se mando por correo.
